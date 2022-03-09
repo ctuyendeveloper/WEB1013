@@ -1,0 +1,69 @@
+header .top
+{
+    height: 50px;
+}
+header .top .icon
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 50px;
+}
+header .bot .menu
+{
+    text-align: center;
+    list-style: none;
+}
+header .bot .menu>ul>a
+{
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header .bot .menu>ul>a:hover
+{
+    color: green;
+}
+header .trongbanner
+{
+    position: absolute;
+    left: 10%;
+    bottom: 290px;
+    text-shadow: 0px 0px 3px;
+}
+footer
+{
+    background-color: #cc3528;
+}
+.noidung .container{
+    float: left;
+    left: 50px;
+    height: 70%;
+    width: 13%;
+    background-color: white;
+    margin: 10%;
+    border-radius: 10px;     
+    border: 2px solid rosybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.theiframe
+{
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+.mid .top
+{
+    text-align: center;
+}
+.mid .top>a
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    text-decoration: none;
+    color: gray
+}
+.mid .top>a:hover
+{
+    color: green;
+}
